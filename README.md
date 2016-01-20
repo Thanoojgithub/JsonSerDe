@@ -2,6 +2,7 @@
 Json SerDe in Hive
 
 hive> list jars;
+
 /home/ubuntu/hiveJars/JsonSerDe-1.0.jar
 
 /home/ubuntu/hive-1.2.1/hcatalog/share/hcatalog/hive-hcatalog-core-1.2.1.jar
